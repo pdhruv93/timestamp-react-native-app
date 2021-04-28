@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Timestamping</string>
+    <string name="facebook_app_id">209034510719349</string>
+    <string name="fb_login_protocol_scheme">fb209034510719349</string>
+</resources>

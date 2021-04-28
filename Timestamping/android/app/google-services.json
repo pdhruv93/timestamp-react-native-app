@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "23814590609",
+	"firebase_url": "https://timestamps-aaddf-default-rtdb.firebaseio.com",
+    "project_id": "timestamps-aaddf",
+    "storage_bucket": "timestamps-aaddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23814590609:android:15b4755b23c758d63aef30",
+        "android_client_info": {
+          "package_name": "com.timestamping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23814590609-rep095gv9jk8agn19kvlvtkb3sj534sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC34c8-F6GcbqVBVReBMmqBms7Z_FmSsVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23814590609-rep095gv9jk8agn19kvlvtkb3sj534sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
