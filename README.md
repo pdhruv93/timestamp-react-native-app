@@ -4,7 +4,6 @@
 <img src="timestamps/3.png">
 <img src="timestamps/4.png">
 <img src="timestamps/5.png">
-<img src="timestamps/6.png">
 
 Create new project
 ========================================
