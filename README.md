@@ -3,7 +3,6 @@
 <img src="timestamps/2.png">
 <img src="timestamps/3.png">
 <img src="timestamps/4.png">
-<img src="timestamps/5.png">
 
 Create new project
 ========================================
