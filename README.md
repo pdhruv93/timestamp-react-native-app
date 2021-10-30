@@ -1,4 +1,10 @@
-Timestamping React Ntaive Application
+<h2>Timestamping React Native Application</h2>
+<img src="timestamps/1.png">
+<img src="timestamps/2.png">
+<img src="timestamps/3.png">
+<img src="timestamps/4.png">
+<img src="timestamps/5.png">
+<img src="timestamps/6.png">
 
 Create new project
 ========================================
